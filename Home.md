@@ -1,6 +1,6 @@
-![Obligatory icon image](/public/mail.png) Hi! I'm Vandana. I'm early into my career in technology and am using this space to document my journey as it goes. 
+Hi! I'm Vandana. I'm early into my career in technology and am using this space to document my journey as it goes. 
 
-![Obligatory unsplash banner image of a beach](/public/beach.png)
+![Obligatory icon image](/public/mail.png)
 
 # About me
 
